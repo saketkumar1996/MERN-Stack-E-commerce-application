@@ -1,0 +1,27 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saketkumar1996/MERN-Stack-E-commerce-application.git"
+  },
+  "keywords": [
+    "React",
+    "Express"
+  ],
+  "author": "Saket Kumar Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saketkumar1996/MERN-Stack-E-commerce-application/issues"
+  },
+  "homepage": "https://github.com/saketkumar1996/MERN-Stack-E-commerce-application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
